@@ -1,2 +1,2 @@
 # BloomFilter
-Implementing BloomFilters in GO
+Implementing BloomFilter in GO
